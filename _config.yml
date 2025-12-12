@@ -1,0 +1,6 @@
+title: "github_social_preview_template"
+description: "A template for GitHub social preview images."
+baseurl: "/github_social_preview_template"
+url: "https://europanite.github.io"
+plugins:
+  - jekyll-sitemap
