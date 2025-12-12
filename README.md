@@ -1,4 +1,4 @@
-# github_social_preview_template
+# [GitHub Social Preview Template](https://github.com/europanite/github_social_preview_template "GitHub Social Preview Template")
 
 !["image"](./assets/images/image.png)
 
