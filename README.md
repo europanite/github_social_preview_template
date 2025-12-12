@@ -1,8 +1,8 @@
-# [GitHub Social Preview Template](https://github.com/europanite/github_social_preview_template "GitHub Social Preview Template")
+# [GitHub Social Preview PPTX Template](https://github.com/europanite/github_social_preview_pptx_template "GitHub Social Preview PPTX Template")
 
 !["image"](./assets/images/image.png)
 
-A template for GitHub social preview images.
+A pptx template for GitHub social preview images.
 
 ## Overview
 
