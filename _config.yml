@@ -1,6 +1,6 @@
-title: "github_social_github_social_preview_pptx_templatepreview_template"
+title: "github_social_preview_pptx_templatepreview_template"
 description: "A pptx template for GitHub social preview images."
-baseurl: "/github_social_preview_template"
+baseurl: "/github_social_preview_pptx_templatepreview_template"
 url: "https://github_social_preview_pptx_template.github.io"
 plugins:
   - jekyll-sitemap
