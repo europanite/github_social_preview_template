@@ -1,6 +1,10 @@
-title: "github_social_preview_pptx_templatepreview_template"
-description: "A pptx template for GitHub social preview images."
-baseurl: "/github_social_preview_pptx_templatepreview_template"
-url: "https://github_social_preview_pptx_template.github.io"
+title: "github_social_preview_pptx_template"
+description: "A PPTX Template for GitHub Social Template."
+baseurl: "/github_social_preview_pptx_template"
+url: "https://europanite.github.io"
+theme: minima
+markdown: kramdown
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
+highlighter: rouge
